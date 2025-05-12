@@ -101,43 +101,43 @@ div{
     justify-content: center; 
 }
 .main-img{
-    background-image: url("/images/main.jpeg");
+    background-image: url("images/main.jpeg");
     width: 100%;
     height: 105vh;
    
 }
 .bg-1{
-    background-image: url("/images/TajMahal.jpg");
+    background-image: url("images/TajMahal.jpg");
     width: 100%;
     height: 205dvh;
 }
 .bg-2{
-    background-image: url("/images/ChichenItza.jpg");
+    background-image: url("images/ChichenItza.jpg");
     width: 100%;
     height: 205dvh;
 }
 .bg-3{
-    background-image: url("/images/GreatWallOfChina.jpg");
+    background-image: url("images/GreatWallOfChina.jpg");
     width: 100%;
     height: 205dvh;
 }
 .bg-4{
-    background-image: url("/images/ChristTheRedeemer.jpg");
+    background-image: url("images/ChristTheRedeemer.jpg");
     width: 100%;
     height: 205dvh;
 }
 .bg-5{
-    background-image: url("/images/MacchuPicchu.jpg");
+    background-image: url("images/MacchuPicchu.jpg");
     width: 100%;
     height: 205dvh;
 }
 .bg-6{
-    background-image: url("/images/Colosseum.jpg");
+    background-image: url("images/Colosseum.jpg");
     width: 100%;
     height: 205dvh;
 }
 .bg-7{
-    background-image: url("/images/Petra.jpg");
+    background-image: url("images/Petra.jpg");
     width: 100%;
     height: 205dvh;
 }
