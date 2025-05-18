@@ -47,11 +47,12 @@ a:hover{
     flex-direction: row;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.904);
+    margin-top: -5px;
 }
 .content{
     padding: 1px 20px;
-    height: 95vh;    
-    overflow-y: scroll;
+    height: 100vh;    
+    overflow-y:scroll;
     color: black;
     text-shadow: 1px 1px 1px gainsboro;
     font-size: large;
@@ -106,40 +107,30 @@ div{
     height: 105vh;
    
 }
+.bg{
+    width: 100%;
+    height: 210vh;
+}
 .bg-1{
     background-image: url("images/TajMahal.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 .bg-2{
     background-image: url("images/ChichenItza.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 .bg-3{
     background-image: url("images/GreatWallOfChina.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 .bg-4{
     background-image: url("images/ChristTheRedeemer.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 .bg-5{
     background-image: url("images/MacchuPicchu.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 .bg-6{
     background-image: url("images/Colosseum.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 .bg-7{
     background-image: url("images/Petra.jpg");
-    width: 100%;
-    height: 205dvh;
 }
 video{
     height: 110vh;
@@ -157,40 +148,39 @@ video{
         font-weight: 700 !important;
     }
     .main-content{
-        flex-direction: column;
+        display:block;
         height: max-content;
     }
     .content{
         width: 100%;
         height: max-content;
-        height: 100vh;
         font-size: medium;
         border-bottom: 2px solid black;
     }
     .map{
         flex-direction: column;
         width: 100%;
-        height: 100vh;
+        height: 90vh;
     }
     .bg-1{
-        height: 300vh;
+        height: max-content;
     }
     .bg-2{
-        height: 300vh;
+        height: max-content;
     }
     .bg-3{
-        height: 300vh;
+        height: max-content;
     }
     .bg-4{
-        height: 300vh;
+        height: max-content;
     }
     .bg-5{
-        height: 300vh;
+        height: max-content;
     }
     .bg-6{
-        height: 300vh;
+        height: max-content;
     }
     .bg-7{
-        height: 300vh;
+        height: max-content;
     }
 }
